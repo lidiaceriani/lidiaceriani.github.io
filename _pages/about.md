@@ -11,7 +11,7 @@ profile:
     <p>Department of Economics</p>
     <p>University of Verona</p>
     <p>Verona, Italy</p>
-    <p><strong>Email:</strong> lidia.ceriani@gmail.com</p>
+    <p><strong>Email:</strong> lidia.ceriani@univr.it</p>
 selected_papers: true
 social: true
 announcements:
