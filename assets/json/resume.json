@@ -1,9 +1,10 @@
 {
   "basics": {
     "name": "Lidia Ceriani",
-    "label": "Assistant Professor of Economic Statistics (Tenure Track)",
+    "label": "Assistant Professor of Economics (Tenure Track)",
     "email": "lidia.ceriani@univr.it",
-    "summary": "Assistant Professor (Tenure Track) in Economics at the University of Verona. Her research focuses on the measurement and analysis of inequality and poverty, tax-benefit systems, the middle class, and household welfare.",
+    "phone": "",
+    "summary": "Assistant Professor (Tenure Track) in Economic Statistics at the University of Verona. Her research focuses on the measurement and analysis of inequality and poverty, tax-benefit systems, the middle class, and household welfare.",
     "location": {
       "city": "Bologna",
       "country": "Italy"
@@ -21,6 +22,7 @@
       "name": "University of Bologna",
       "position": "Adjunct Professor",
       "startDate": "2025-01",
+      "endDate": null,
       "summary": "Adjunct Professor in Economics.",
       "location": "Bologna, Italy"
     },
@@ -28,6 +30,7 @@
       "name": "Johns Hopkins School of Advanced International Studies (SAIS Europe)",
       "position": "Adjunct Professor",
       "startDate": "2024-08",
+      "endDate": null,
       "summary": "Adjunct Professor at SAIS Europe in Bologna.",
       "location": "Bologna, Italy"
     },
@@ -35,6 +38,7 @@
       "name": "The World Bank, Poverty and Equity Global Practice",
       "position": "Consultant",
       "startDate": "2017-08",
+      "endDate": null,
       "summary": "Consultant on poverty and inequality measurement, distributional analysis and tax-benefit simulations.",
       "location": "Washington, DC, USA"
     },
@@ -126,10 +130,7 @@
     },
     {
       "name": "Empirical Methods",
-      "keywords": [
-        "Microeconometrics",
-        "Distributional analysis"
-      ]
+      "keywords": ["Microeconometrics", "Distributional analysis"]
     }
   ],
   "languages": [
