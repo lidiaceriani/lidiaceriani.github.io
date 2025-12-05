@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Materials for courses you taught. Replace this text with your description.",
+          description: "Teaching portfolio and courses taught at SAIS Europe, Georgetown University, Università degli Studi dell&#39;Insubria, and Bocconi University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
