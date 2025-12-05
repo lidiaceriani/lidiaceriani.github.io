@@ -12,14 +12,14 @@ profile:
     <p>University of Verona</p>
     <p>Verona, Italy</p>
     <p><strong>Email:</strong> lidia.ceriani@univr.it</p>
-selected_papers: true
+selected_papers: false
 social: true
 announcements:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 5
 latest_posts:
-  enabled: true
+  enabled: false
   scrollable: true
   limit: 3
 ---
