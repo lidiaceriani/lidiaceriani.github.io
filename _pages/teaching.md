@@ -11,7 +11,22 @@ Over the years I have taught graduate and undergraduate courses in international
 
 Below is a selection of courses, organized by level and institution.
 
-## Graduate and Ph.D. teaching
+## GRADUATE AND PHD COURSES
+
+### University of Verona (Verona, Italy)
+
+**Business Statistics**
+*Master's degree in Corporate governance and business administration - Fall 2025.*	
+*Master’s degree in Marketing and Corporate Communication - Fall 2025*
+
+---
+
+### Alma Mater Studiorum Bologna University (Bologna, Italy)
+
+**Public Economics**
+*Second cycle degree programme (LM) in Politics Administration and Organization — Spring 2025.*
+
+---
 
 ### Johns Hopkins SAIS Europe (Bologna, Italy)
 
@@ -41,7 +56,7 @@ Below is a selection of courses, organized by level and institution.
 **Understanding Poverty: Measurement and Policies**  
 *Ph.D. in Economics — A.Y. 2017/18.*
 
-## Undergraduate teaching
+## UNDERGRADUATE COURSES
 
 ### Georgetown University, Walsh School of Foreign Service (Washington, DC, USA)
 
