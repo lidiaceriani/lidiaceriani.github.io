@@ -4,7 +4,7 @@ permalink: /teaching/
 title: teaching
 description: "Teaching portfolio and courses taught at SAIS Europe, Georgetown University, Università degli Studi dell'Insubria, and Bocconi University."
 nav: true
-nav_order: 6
+nav_order: 4
 ---
 
 Over the years I have taught graduate and undergraduate courses in international economics, development, public economics, and inequality at Johns Hopkins SAIS Europe, Georgetown University, Università degli Studi dell'Insubria, and Bocconi University.
