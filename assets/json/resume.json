@@ -120,13 +120,7 @@
   "skills": [
     {
       "name": "Applied Microeconomics",
-      "keywords": [
-        "Inequality measurement",
-        "Poverty analysis",
-        "Tax-benefit systems",
-        "Middle class measurement",
-        "Household welfare"
-      ]
+      "keywords": ["Inequality measurement", "Poverty analysis", "Tax-benefit systems", "Middle class measurement", "Household welfare"]
     },
     {
       "name": "Empirical Methods",

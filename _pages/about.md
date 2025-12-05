@@ -43,6 +43,6 @@ and consultant at the World Bank.
 My work combines distributional methods with policy-relevant questions: how we measure
 inequality and poverty, how tax and transfer systems redistribute resources, and how
 concepts such as the “middle class” should be defined and tracked across income
-distributions. I have published in journals such as *World Development*, *Review of Income
-and Wealth*, *The Journal of Economic Inequality*, *Social Indicators Research*, and the
-*Journal of Development Studies*.
+distributions. I have published in journals such as _World Development_, _Review of Income
+and Wealth_, _The Journal of Economic Inequality_, _Social Indicators Research_, and the
+_Journal of Development Studies_.
