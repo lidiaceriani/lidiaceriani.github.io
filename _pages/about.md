@@ -13,7 +13,7 @@ profile:
     <p>Verona, Italy</p>
     <p><strong>Email:</strong> lidia.ceriani@univr.it</p>
 selected_papers: false
-social: true
+social: false
 announcements:
   enabled: false
   scrollable: true
