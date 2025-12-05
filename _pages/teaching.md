@@ -7,7 +7,7 @@ nav: true
 nav_order: 4
 ---
 
-Over the years I have taught graduate and undergraduate courses in international economics, development, public economics, and inequality at Johns Hopkins SAIS Europe, Georgetown University, Università degli Studi dell'Insubria, and Bocconi University.
+Over the years I have taught graduate and undergraduate courses in statistics, public economics, inequality, development, and international economics at University of Verona, Alma Mater Studiorum University of Bologna, Johns Hopkins SAIS Europe, Georgetown University, Università degli Studi dell'Insubria, and Bocconi University.
 
 Below is a selection of courses, organized by level and institution.
 
@@ -17,7 +17,7 @@ Below is a selection of courses, organized by level and institution.
 
 **Business Statistics**
 *Master's degree in Corporate governance and business administration - Fall 2025.*	
-*Master’s degree in Marketing and Corporate Communication - Fall 2025*
+*Master’s degree in Marketing and Corporate Communication - Fall 2025.*
 
 ---
 
