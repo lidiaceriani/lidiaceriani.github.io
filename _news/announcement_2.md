@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Winter School on Inequality and Social Welfare Theory
-date: Jan 6-10, 2026
+date: Jan 6 to Jan 10, 2026
 inline: false
 related_posts: false
 ---
