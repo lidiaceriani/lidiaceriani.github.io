@@ -19,4 +19,4 @@ The aim of the School is to provide junior and senior researchers on inequality 
 
 ---
 
-<a href="https://www.liser.lu/events/canazei-2026">Link to Event Page</a>
+<a href="[https://www.liser.lu/events/canazei-2026](https://linux2.dse.univr.it/it/)">Link to Event Page</a>
