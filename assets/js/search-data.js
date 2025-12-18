@@ -398,10 +398,7 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-a-simple-inline-announcement-with-markdown-emoji-sparkles-smile",
-          title: 'A simple inline announcement with Markdown emoji! :sparkles: :smile:',
-          description: "",
-          section: "News",},{id: "news-book-discussion-non-è-giusta-l-39-italia-delle-disuguaglianze-laterza-2025",
+            },},{id: "news-book-discussion-non-è-giusta-l-39-italia-delle-disuguaglianze-laterza-2025",
           title: 'Book Discussion: Non è giusta. L&amp;#39;Italia delle disuguaglianze, Laterza, 2025',
           description: "",
           section: "News",handler: () => {
