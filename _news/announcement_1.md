@@ -1,8 +1,9 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2025-12-15 17:00
 inline: true
-related_posts: false
+related_posts: true
 ---
 
-A simple inline announcement.
+Book discussion "Non è giusta. L'Italia delle disuguaglianze", Laterza, 2025 
+Location: Library "Walter Bigiavi", via delle Belle Arti, 33 - 40126 Bologna
