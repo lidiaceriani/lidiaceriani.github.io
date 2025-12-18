@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Book Discussion: "Non è giusta. L'Italia delle disuguaglianze", Laterza, 2025
-date: 2025-12-15 17:00:00+0100
+title: "Book Discussion: Non è giusta. L'Italia delle disuguaglianze, Laterza, 2025"
+date: 2025-12-15 17:00:00 +0100
 inline: false
 related_posts: false
 ---
