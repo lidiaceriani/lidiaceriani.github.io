@@ -1,33 +1,17 @@
 ---
 layout: post
-title: A long announcement with details
-date: 2015-11-07 16:11:00-0400
+title: Book Discussion: "Non è giusta. L'Italia delle disuguaglianze", Laterza, 2025
+date: 2025-12-15 17:00:00+0100
 inline: false
 related_posts: false
 ---
 
-Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
+Book Discussion
+``Non \`e giusta. L'Italia delle diseguaglianze'', Laterza, 2025
 
 ---
 
-Jean shorts raw denim Vice normcore, art party High Life PBR skateboard stumptown vinyl kitsch. Four loko meh 8-bit, tousled banh mi tilde forage Schlitz dreamcatcher twee 3 wolf moon. Chambray asymmetrical paleo salvia, sartorial umami four loko master cleanse drinking vinegar brunch. <a href="https://www.pinterest.com">Pinterest</a> DIY authentic Schlitz, hoodie Intelligentsia butcher trust fund brunch shabby chic Kickstarter forage flexitarian. Direct trade <a href="https://en.wikipedia.org/wiki/Cold-pressed_juice">cold-pressed</a> meggings stumptown plaid, pop-up taxidermy. Hoodie XOXO fingerstache scenester Echo Park. Plaid ugh Wes Anderson, freegan pug selvage fanny pack leggings pickled food truck DIY irony Banksy.
-
-#### Hipster list
-
-<ul>
-    <li>brunch</li>
-    <li>fixie</li>
-    <li>raybans</li>
-    <li>messenger bag</li>
-</ul>
-
-Hoodie Thundercats retro, tote bag 8-bit Godard craft beer gastropub. Truffaut Tumblr taxidermy, raw denim Kickstarter sartorial dreamcatcher. Quinoa chambray slow-carb salvia readymade, bicycle rights 90's yr typewriter selfies letterpress cardigan vegan.
-
----
-
-Pug heirloom High Life vinyl swag, single-origin coffee four dollar toast taxidermy reprehenderit fap distillery master cleanse locavore. Est anim sapiente leggings Brooklyn ea. Thundercats locavore excepteur veniam eiusmod. Raw denim Truffaut Schlitz, migas sapiente Portland VHS twee Bushwick Marfa typewriter retro id keytar.
-
-> We do not grow absolutely, chronologically. We grow sometimes in one dimension, and not in another, unevenly. We grow partially. We are relative. We are mature in one realm, childish in another.
-> —Anais Nin
-
-Fap aliqua qui, scenester pug Echo Park polaroid irony shabby chic ex cardigan church-key Odd Future accusamus. Blog stumptown sartorial squid, gastropub duis aesthetic Truffaut vero. Pinterest tilde twee, odio mumblecore jean shorts lumbersexual.
+> Quanto pesa l’eredità sulle nostre possibilità di successo? Quanto guadagna un manager rispetto a un’operaia? Quanto si mette in tasca l’1% più ricco del nostro paese?E quanto la metà più povera?
+In queste pagine si attinge agli studi più recenti e di frontiera per raccontare le disuguaglianze economiche in Italia: dall’esplosione dei divari tra lavoratrici e lavoratori all’immobilità sociale estrema, dalle diverse conseguenze dei cambiamenti climatici su ricchi e poveri al ritorno della ricchezza e dell’eredità ai livelli di fine Ottocento. Non dismettendo gli strumenti del dibattito accademico, si mostrano le ingiustizie che queste disuguaglianze rappresentano: non solo delineando quante sono, ma anche comparandole con quelle di altri paesi e periodi storici.
+> Giacomo Gabbuti
+> <a href="https://bigiavi.sba.unibo.it/agenda/non-e-giusta">Link to Event Page</a>
