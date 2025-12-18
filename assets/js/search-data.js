@@ -402,7 +402,7 @@ ninja.data = [{
           title: 'Book Discussion: Non è giusta. L&amp;#39;Italia delle disuguaglianze, Laterza, 2025',
           description: "",
           section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
+              window.location.href = "/news/announcement_1/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
