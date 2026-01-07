@@ -398,16 +398,16 @@ ninja.data = [{
           description: "",
           section: "Books",handler: () => {
               window.location.href = "/books/the_godfather/";
-            },},{id: "news-winter-school-on-inequality-and-social-welfare-theory",
-          title: 'Winter School on Inequality and Social Welfare Theory',
-          description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/announcement_2/";
             },},{id: "news-book-discussion-non-è-giusta-l-39-italia-delle-disuguaglianze-laterza-2025",
           title: 'Book Discussion: Non è giusta. L&amp;#39;Italia delle disuguaglianze, Laterza, 2025',
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_1/";
+            },},{id: "news-winter-school-on-inequality-and-social-welfare-theory",
+          title: 'Winter School on Inequality and Social Welfare Theory',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_2/";
             },},{id: "projects-project-1",
           title: 'project 1',
           description: "with background image",
