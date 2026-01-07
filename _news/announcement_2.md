@@ -19,6 +19,14 @@ The aim of the School is to provide junior and senior researchers on inequality 
 
 ---
 
-<a href="../assets/pdf/Winter_School_Canazei_Forbes.pdf" download>
+<a href="../assets/Canazei_Winter_School/Winter_School_Canazei_Forbes.pdf" download>
   Download Presentation
+</a>
+
+<a href="../assets/Canazei_Winter_School/Forbes.zip" download>
+  Download Data
+</a>
+
+<a href="../assets/Canazei_Winter_School/Forbes.do" download>
+  Download Dofile
 </a>
