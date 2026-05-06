@@ -13,27 +13,27 @@ Below is a selection of courses, organized by level and institution.
 
 ## GRADUATE AND PHD COURSES
 
-### University of Verona (Verona, Italy)
-**Poverty, Inequality and Wellbeing**
-*PhD in Economics and Finance - Spring 2026.*
+### University of Verona (Verona, Italy) 
+**Poverty, Inequality and Wellbeing** 
+*PhD in Economics and Finance - Spring 2026.* 
 
-**Business Statistics**
-*Master's degree in Corporate governance and business administration - Fall 2025.*	
-*Master’s degree in Marketing and Corporate Communication - Fall 2025.*
+**Business Statistics** 
+*Master's degree in Corporate governance and business administration - Fall 2025.* 	
+*Master’s degree in Marketing and Corporate Communication - Fall 2025.* 
 
 ---
 
 ### Alma Mater Studiorum Bologna University (Bologna, Italy)
 
-**Public Economics**
-*Second cycle degree programme (LM) in Politics Administration and Organization — Spring 2025.*
+**Public Economics** 
+*Second cycle degree programme (LM) in Politics Administration and Organization — Spring 2025.* 
 
 ---
 
-### Johns Hopkins SAIS Europe (Bologna, Italy)
+### Johns Hopkins SAIS Europe (Bologna, Italy) 
 
 **International Economics**  
-*SAIS Europe, Fall 2024.*
+*SAIS Europe, Fall 2024.* 
 
 ---
 
