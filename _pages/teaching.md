@@ -14,6 +14,8 @@ Below is a selection of courses, organized by level and institution.
 ## GRADUATE AND PHD COURSES
 
 ### University of Verona (Verona, Italy)
+**Poverty, Inequality and Wellbeing**
+*PhD in Economics and Finance - Spring 2026.*
 
 **Business Statistics**
 *Master's degree in Corporate governance and business administration - Fall 2025.*	
