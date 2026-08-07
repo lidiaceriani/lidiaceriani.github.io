@@ -40,6 +40,11 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/announcement_2/";
+            },},{id: "news-xxxviii-riunione-scientifica-annuale-siep",
+          title: 'XXXVIII Riunione Scientifica Annuale SIEP',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/announcement_3/";
             },},{
         id: 'social-cv',
         title: 'CV',
