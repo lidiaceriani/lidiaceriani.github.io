@@ -25,7 +25,7 @@ ninja.data = [{
           },
         },{id: "nav-teaching",
           title: "teaching",
-          description: "Teaching portfolio and courses taught at SAIS Europe, Georgetown University, Università degli Studi dell&#39;Insubria, and Bocconi University.",
+          description: "Doctoral, graduate and undergraduate courses taught at the University of Verona, the University of Bologna, Johns Hopkins SAIS Europe, Georgetown University, Università degli Studi dell&#39;Insubria and Bocconi University.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/teaching/";
