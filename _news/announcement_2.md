@@ -8,7 +8,6 @@ related_posts: false
 
 Winter School
 
-
 ---
 
 The aim of the School is to provide junior and senior researchers on inequality and social welfare analysis with the opportunity to discuss issues concerning Big Challenges for our societies. This year, the challenges include:

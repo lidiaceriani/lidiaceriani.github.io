@@ -13,74 +13,74 @@ Below is a selection of courses, organized by level and institution.
 
 ## GRADUATE AND PHD COURSES
 
-### University of Verona (Verona, Italy) 
+### University of Verona (Verona, Italy)
+
 **Poverty, Inequality and Wellbeing**  
-*PhD in Economics and Finance - Spring 2026.*
+_PhD in Economics and Finance - Spring 2026._
 
 **Business Statistics**  
-*Master's degree in Corporate governance and business administration - Fall 2025.*     	
-*Master’s degree in Marketing and Corporate Communication - Fall 2025.*  
+_Master's degree in Corporate governance and business administration - Fall 2025._  
+_Master’s degree in Marketing and Corporate Communication - Fall 2025._
 
 ---
 
 ### Alma Mater Studiorum Bologna University (Bologna, Italy)
 
-**Public Economics** 
-*Second cycle degree programme (LM) in Politics Administration and Organization — Spring 2025.* 
+**Public Economics**  
+_Second cycle degree programme (LM) in Politics Administration and Organization — Spring 2025._
 
 ---
 
-### Johns Hopkins SAIS Europe (Bologna, Italy) 
+### Johns Hopkins SAIS Europe (Bologna, Italy)
 
 **International Economics**  
-*SAIS Europe, Fall 2024.* 
+_SAIS Europe, Fall 2024._
 
 ---
 
 ### Georgetown University, Walsh School of Foreign Service (Washington, DC, USA)
 
 **Game Theory for Policymakers**  
-*Master of the School of Foreign Service — Fall 2017, 2018, 2019, 2022.*
+_Master of the School of Foreign Service — Fall 2017, 2018, 2019, 2022._
 
 **Analytical/Statistical Skills**  
-*Master of the School of Foreign Service — Fall 2019.*
+_Master of the School of Foreign Service — Fall 2019._
 
 **Economics of Development: Poverty Alleviation**  
-*Master in Global Human Development — Spring 2018, 2019, 2020, 2021, 2022, 2023, 2024.*
+_Master in Global Human Development — Spring 2018, 2019, 2020, 2021, 2022, 2023, 2024._
 
 **Governance in Development: Thinking Strategically**  
-*School of Foreign Service — Spring 2021, 2022, 2023, 2024.*
+_School of Foreign Service — Spring 2021, 2022, 2023, 2024._
 
 ---
 
 ### Università degli Studi dell’Insubria (Varese, Italy)
 
 **Understanding Poverty: Measurement and Policies**  
-*Ph.D. in Economics — A.Y. 2017/18.*
+_Ph.D. in Economics — A.Y. 2017/18._
 
 ## UNDERGRADUATE COURSES
 
 ### Georgetown University, Walsh School of Foreign Service (Washington, DC, USA)
 
 **Economics of Diversity**  
-*Undergraduate course — Fall 2021; Spring 2022, 2023, 2024.*
+_Undergraduate course — Fall 2021; Spring 2022, 2023, 2024._
 
 **Researching Inequality**  
-*Undergraduate course — Fall 2017, 2018.*
+_Undergraduate course — Fall 2017, 2018._
 
 **Economics of the Public Sector**  
-*Undergraduate course — Fall 2017, 2018, 2019, 2021; Spring 2023.*
+_Undergraduate course — Fall 2017, 2018, 2019, 2021; Spring 2023._
 
 **Game Theory for Policymakers**  
-*Undergraduate course — Spring 2018, 2019, 2020, 2021, 2024; Fall 2022.*
+_Undergraduate course — Spring 2018, 2019, 2020, 2021, 2024; Fall 2022._
 
 ---
 
 ### Bocconi University (Milan, Italy)
 
 **Public Economics (Scienza delle Finanze)**  
-*Undergraduate course — A.Y. 2007/08, 2008/09, 2009/10, 2010/11, 2011/12.*
+_Undergraduate course — A.Y. 2007/08, 2008/09, 2009/10, 2010/11, 2011/12._
 
 **Principles of Economics (Principi di Economia)**  
-*Undergraduate course — A.Y. 2007/08, 2008/09, 2009/10, 2010/11, 2011/12.*
-
+_Undergraduate course — A.Y. 2007/08, 2008/09, 2009/10, 2010/11, 2011/12._
