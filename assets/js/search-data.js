@@ -45,7 +45,7 @@ ninja.data = [{
         title: 'CV',
         section: 'Socials',
         handler: () => {
-          window.open("/assets/pdf/CV_Ceriani_2026_08.pdf", "_blank");
+          window.open("/assets/pdf/CV_2026_08.pdf", "_blank");
         },
       },{
         id: 'social-email',
