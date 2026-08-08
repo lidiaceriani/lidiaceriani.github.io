@@ -21,7 +21,7 @@ Below is a selection of courses, organized by level and institution.
   <ul class="card-text font-weight-light list-group list-group-flush">
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2026</span></td></tr>
@@ -38,7 +38,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2025</span></td></tr>
@@ -55,7 +55,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2025 - 2026</span></td></tr>
@@ -72,7 +72,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2024</span></td></tr>
@@ -89,7 +89,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2018 - 2024</span></td></tr>
@@ -106,7 +106,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2021 - 2024</span></td></tr>
@@ -123,7 +123,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2017 - 2022</span></td></tr>
@@ -140,7 +140,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2019</span></td></tr>
@@ -157,7 +157,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2017/18</span></td></tr>
@@ -182,7 +182,7 @@ Below is a selection of courses, organized by level and institution.
   <ul class="card-text font-weight-light list-group list-group-flush">
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2021 - 2024</span></td></tr>
@@ -199,7 +199,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2018 - 2024</span></td></tr>
@@ -216,7 +216,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2017 - 2023</span></td></tr>
@@ -233,7 +233,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2018 - 2022</span></td></tr>
@@ -250,7 +250,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2017 - 2018</span></td></tr>
@@ -267,7 +267,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2007 - 2012</span></td></tr>
@@ -284,7 +284,7 @@ Below is a selection of courses, organized by level and institution.
   </li>
   <li class="list-group-item">
     <div class="row">
-      <div class="col-xs-2 cl-sm-2 col-md-2 text-center date-column">
+      <div class="col-xs-2 cl-sm-2 col-md-2 date-column">
         <table class="table-cv">
           <tbody>
             <tr><td><span class="badge font-weight-bold danger-color-dark text-uppercase align-middle" style="min-width: 75px">2007 - 2012</span></td></tr>
