@@ -146,6 +146,7 @@ collections:
     defaults:
       layout: post
     output: true
+    future: true # build announcements dated in the future (e.g. upcoming conferences)
   projects:
     output: true
 
@@ -275,8 +276,11 @@ scholar:
   details_link: Details
 
   query: "@*"
-  group_by: year
-  group_order: descending
+  group_by: type
+  group_order: ascending
+  type_order: [article, incollection, book, techreport, unpublished]
+  sort_by: year
+  order: descending
 
 enable_publication_badges:
   altmetric: true
