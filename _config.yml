@@ -619,6 +619,10 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 
+# Display names for the CV sections (defaults to the capitalised key)
+jsonresume_titles:
+  basics: Summary
+
 jsonresume:
   - basics
   - work
